@@ -1,1 +1,26 @@
-.box, .short {border-style: outset;}
+:root {
+  --primary: ;
+  --secondary: ; 
+  --button: ;
+  --buttonHover: ;
+  --background: ;
+  --backgroundanimation: ;
+  --container: ;
+  --pcolor: ;
+  --bcolor: ;
+  --acolor: ;
+  --highlight: ;
+  --textshadowprimary: ;
+  --textshadowsecondary: ;
+  --textshadowtertiary: ;
+  --commentprimary: ;
+  --commentsecondary: ;
+  --commentinput: ;
+  --commentborder: ;
+  --hoverborder: ;
+  --ahover: ;
+  --header: ;
+  --hsub: ;
+  --gradient1: ; 
+  --gradient2: ;  
+}
