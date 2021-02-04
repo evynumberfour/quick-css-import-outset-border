@@ -1,6 +1,6 @@
 :root {
-  --primary: ;
-  --secondary: ; 
+  --primary: #000 !important;
+  --secondary: #fff !important; 
   --button: ;
   --buttonHover: ;
   --background: ;
